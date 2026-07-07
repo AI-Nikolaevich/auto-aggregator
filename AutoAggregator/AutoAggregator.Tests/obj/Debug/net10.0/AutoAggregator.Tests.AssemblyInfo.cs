@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoAggregator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef3e5d54890f14dbe909f72778859b34ed6e75aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d84a85dae27b4633cc5b073e3680785905ecb9f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoAggregator.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoAggregator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

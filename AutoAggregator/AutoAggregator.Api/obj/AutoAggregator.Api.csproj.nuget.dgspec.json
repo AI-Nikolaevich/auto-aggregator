@@ -34,9 +34,6 @@
             "projectReferences": {
               "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Application\\AutoAggregator.Application.csproj": {
                 "projectPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Application\\AutoAggregator.Application.csproj"
-              },
-              "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj": {
-                "projectPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj"
               }
             }
           }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE0A3B4B-837C-C612-2D61-CE5D382AD90C}|AutoAggregator.Api\\AutoAggregator.Api.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.api\\autoaggregator.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{DE0A3B4B-837C-C612-2D61-CE5D382AD90C}|AutoAggregator.Api\\AutoAggregator.Api.csproj|solutionrelative:autoaggregator.api\\autoaggregator.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE06CF9-2FB4-902B-81E4-894A924831C0}|AutoAggregator.Domain\\AutoAggregator.Domain.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.domain\\autoaggregator.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8BE06CF9-2FB4-902B-81E4-894A924831C0}|AutoAggregator.Domain\\AutoAggregator.Domain.csproj|solutionrelative:autoaggregator.domain\\autoaggregator.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B83DC48-936C-EAD9-77B1-B36BFCA95EF9}|AutoAggregator.Application\\AutoAggregator.Application.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.application\\autoaggregator.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7B83DC48-936C-EAD9-77B1-B36BFCA95EF9}|AutoAggregator.Application\\AutoAggregator.Application.csproj|solutionrelative:autoaggregator.application\\autoaggregator.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{437891BA-1D40-100E-2938-D879A57AA75E}|AutoAggregator.Infrastructure\\AutoAggregator.Infrastructure.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.infrastructure\\autoaggregator.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{437891BA-1D40-100E-2938-D879A57AA75E}|AutoAggregator.Infrastructure\\AutoAggregator.Infrastructure.csproj|solutionrelative:autoaggregator.infrastructure\\autoaggregator.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A3B4B-837C-C612-2D61-CE5D382AD90C}|AutoAggregator.Api\\AutoAggregator.Api.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.api\\autoaggregator.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DE0A3B4B-837C-C612-2D61-CE5D382AD90C}|AutoAggregator.Api\\AutoAggregator.Api.csproj|solutionrelative:autoaggregator.api\\autoaggregator.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE06CF9-2FB4-902B-81E4-894A924831C0}|AutoAggregator.Domain\\AutoAggregator.Domain.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.domain\\autoaggregator.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8BE06CF9-2FB4-902B-81E4-894A924831C0}|AutoAggregator.Domain\\AutoAggregator.Domain.csproj|solutionrelative:autoaggregator.domain\\autoaggregator.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D9AFADB-B563-42FB-7B1B-277497F1D96B}|AutoAggregator.Tests\\AutoAggregator.Tests.csproj|c:\\auto-aggregator\\auto-aggregator\\autoaggregator\\autoaggregator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AutoAggregator.Api",
               "DocumentMoniker": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Api\\AutoAggregator.Api.csproj",
               "RelativeDocumentMoniker": "AutoAggregator.Api\\AutoAggregator.Api.csproj",
@@ -58,18 +58,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AutoAggregator.Domain",
               "DocumentMoniker": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj",
               "RelativeDocumentMoniker": "AutoAggregator.Domain\\AutoAggregator.Domain.csproj",
               "ToolTip": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj",
               "RelativeToolTip": "AutoAggregator.Domain\\AutoAggregator.Domain.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-07T21:44:33.156Z"
+              "WhenOpened": "2026-07-07T21:44:33.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AutoAggregator.Application.csproj",
               "DocumentMoniker": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Application\\AutoAggregator.Application.csproj",
               "RelativeDocumentMoniker": "AutoAggregator.Application\\AutoAggregator.Application.csproj",
@@ -77,11 +78,12 @@
               "RelativeToolTip": "AutoAggregator.Application\\AutoAggregator.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-07T21:39:03.694Z"
+              "WhenOpened": "2026-07-07T21:39:03.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AutoAggregator.Infrastructure.csproj",
               "DocumentMoniker": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Infrastructure\\AutoAggregator.Infrastructure.csproj",
               "RelativeDocumentMoniker": "AutoAggregator.Infrastructure\\AutoAggregator.Infrastructure.csproj",
@@ -89,7 +91,8 @@
               "RelativeToolTip": "AutoAggregator.Infrastructure\\AutoAggregator.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-07T21:38:46.715Z"
+              "WhenOpened": "2026-07-07T21:38:46.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

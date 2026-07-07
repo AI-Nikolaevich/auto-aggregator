@@ -1,7 +1,11 @@
 <Solution>
-  <Project Path="AutoAggregator.Api/AutoAggregator.Api.csproj" />
-  <Project Path="AutoAggregator.Application/AutoAggregator.Application.csproj" />
-  <Project Path="AutoAggregator.Domain/AutoAggregator.Domain.csproj" />
-  <Project Path="AutoAggregator.Infrastructure/AutoAggregator.Infrastructure.csproj" />
-  <Project Path="AutoAggregator.Tests/AutoAggregator.Tests.csproj" />
+  <Folder Name="/src/">
+    <Project Path="AutoAggregator.Api/AutoAggregator.Api.csproj" />
+    <Project Path="AutoAggregator.Application/AutoAggregator.Application.csproj" />
+    <Project Path="AutoAggregator.Domain/AutoAggregator.Domain.csproj" />
+    <Project Path="AutoAggregator.Infrastructure/AutoAggregator.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="AutoAggregator.Tests/AutoAggregator.Tests.csproj" />
+  </Folder>
 </Solution>

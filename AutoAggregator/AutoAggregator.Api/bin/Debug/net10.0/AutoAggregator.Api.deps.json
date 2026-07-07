@@ -9,7 +9,6 @@
       "AutoAggregator.Api/1.0.0": {
         "dependencies": {
           "AutoAggregator.Application": "1.0.0",
-          "AutoAggregator.Domain": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.5"
         },
         "runtime": {

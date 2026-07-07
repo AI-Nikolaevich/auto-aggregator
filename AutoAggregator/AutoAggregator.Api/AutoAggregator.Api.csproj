@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AutoAggregator.Application\AutoAggregator.Application.csproj" />
-    <ProjectReference Include="..\AutoAggregator.Domain\AutoAggregator.Domain.csproj" />
   </ItemGroup>
 
 </Project>

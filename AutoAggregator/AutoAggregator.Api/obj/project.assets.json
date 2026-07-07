@@ -113,7 +113,6 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "AutoAggregator.Application >= 1.0.0",
-      "AutoAggregator.Domain >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.5"
     ]
   },
@@ -151,9 +150,6 @@
           "projectReferences": {
             "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Application\\AutoAggregator.Application.csproj": {
               "projectPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Application\\AutoAggregator.Application.csproj"
-            },
-            "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj": {
-              "projectPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj"
             }
           }
         }
