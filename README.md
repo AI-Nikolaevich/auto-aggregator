@@ -45,7 +45,7 @@ Auto Aggregator is a backend application that collects vehicle listings from mul
 
 ## Project Structure
 
-
+```
 src/
  ├── AutoAggregator.Api
  ├── AutoAggregator.Application
@@ -54,7 +54,7 @@ src/
 
 tests/
  └── AutoAggregator.Tests
-
+```
 
 ## Architecture
 
