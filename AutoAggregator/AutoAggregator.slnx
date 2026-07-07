@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AutoAggregator.Api/AutoAggregator.Api.csproj" />
+  <Project Path="AutoAggregator.Application/AutoAggregator.Application.csproj" />
+  <Project Path="AutoAggregator.Domain/AutoAggregator.Domain.csproj" />
+  <Project Path="AutoAggregator.Infrastructure/AutoAggregator.Infrastructure.csproj" />
+  <Project Path="AutoAggregator.Tests/AutoAggregator.Tests.csproj" />
+</Solution>
