@@ -44,6 +44,7 @@ C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\n
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Api.runtimeconfig.json
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Api.dll
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Api.pdb
+C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Application.dll
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Domain.dll
@@ -74,8 +75,3 @@ C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\obj\Debug\n
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\obj\Debug\net10.0\AutoAggregator.Api.pdb
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\obj\Debug\net10.0\AutoAggregator.Api.genruntimeconfig.cache
 C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\obj\Debug\net10.0\ref\AutoAggregator.Api.dll
-C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Infrastructure.dll
-C:\auto-aggregator\auto-aggregator\AutoAggregator\AutoAggregator.Api\bin\Debug\net10.0\AutoAggregator.Infrastructure.pdb

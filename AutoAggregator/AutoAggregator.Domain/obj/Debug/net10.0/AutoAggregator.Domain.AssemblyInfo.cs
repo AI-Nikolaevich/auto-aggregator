@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoAggregator.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40668131709b10f089b6fe8e273779bd730c4765")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2aed7e73d7d084cad144afa92c6b939967cb25c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoAggregator.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoAggregator.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
