@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj",
         "projectName": "AutoAggregator.Domain",
         "projectPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\AutoAggregator.Domain.csproj",
-        "packagesPath": "C:\\Users\\ГАГАРИН\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Handy Bandy\\.nuget\\packages\\",
         "outputPath": "C:\\auto-aggregator\\auto-aggregator\\AutoAggregator\\AutoAggregator.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ГАГАРИН\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Handy Bandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -48,6 +49,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
